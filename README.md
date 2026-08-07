@@ -10,7 +10,25 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science student driven by the challenge of turning ideas into polished, user-focused products. I enjoy designing scalable systems, tackling complex problems, and continuously learning through hands-on projects. Whether working independently or with a team, I value writing clean, maintainable code and building technology that delivers meaningful impact.
+I'm a Computer Science student driven by the challenge of turning ideas into polished, user-focused products. I enjoy designing scalable systems, tackling complex problems, and continuously learning through hands-on projects. Whether working independently or with a team, I value writing clean, maintainable code and building technology that delivers meaningful impact.  
+
+
+My Projects:  
+
+🩺 VytalCare — AI-Driven Preventive Healthcare Platform  
+An AI-powered healthcare platform focused on proactive health monitoring and personalized preventive care. VytalCare combines biometric data analysis with AI-driven insights to help users understand health patterns and receive timely alerts.  
+The platform features a full-stack React application with real-time health dashboards, integrating services like Firebase, Google Cloud, Google Fit, and Google Calendar APIs. It also includes a Gemini-powered Retrieval-Augmented Generation (RAG) pipeline that processes medical knowledge sources to provide context-aware insights and improve patient safety workflows.  
+Built with: React • Firebase • Google Cloud • Gemini API • RAG • Pinecone • Vector Embeddings • Google APIs 
+
+🌍 AmorFlux — AI-Driven Predictive Maintenance System  
+An AI-powered digital twin platform designed for real-time infrastructure monitoring and predictive maintenance. AmorFlux combines machine learning, physics-based modeling, computer vision, and geospatial intelligence to predict pipeline degradation and improve asset reliability.  
+The system integrates real-world datasets, physics-informed neural operators, and explainable AI techniques to analyze corrosion patterns and detect infrastructure defects. It also incorporates YOLOv8-based computer vision, Neo4j graph databases, and SHAP/Grad-CAM explainability to create interpretable AI-driven maintenance workflows.  
+Built with: Python • PyTorch • YOLOv8-seg • DeepXDE • PINNs • Neo4j • Google Earth Engine • Computer Vision • XAI  
+
+☁️ LockIn — Distributed File Storage System  
+A self-hosted, scalable distributed file storage platform designed to improve reliability and efficiency across unreliable networks. LockIn explores the fundamentals of distributed computing by implementing intelligent file management and fault-tolerant storage mechanisms.  
+The system uses file chunking to optimize data transfer, allowing efficient uploads and downloads even under unstable network conditions. It supports concurrent multi-node operations, checksum-based integrity verification, automatic file reconstruction, and cloud integrations for secure authentication and collaborative editing.  
+Built with: Node.js • Python • Raspberry Pi • Google OAuth • ONLYOFFICE API • Distributed Systems • System Design
 
 🔭 &nbsp;I'm currently working on **AmorFlux- AI-Driven Predictive Maintenance System**  
 😄 &nbsp;Pronouns: **he/him**
