@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Computer%20Science%20student%20and%20aspiring%20Software%20Development%20Engineer%20passionate%20about%20building%20AI-powered%2C%20full-stack%20applications%20that%20solve%20real-world%20problems.;I%20enjoy%20working%20across%20the%20stack%E2%80%94from%20React%20frontends%20and%20scalable%20backend%20systems%20to%20LLMs%2C%20RAG%20pipelines%2C%20computer%20vision%2C%20and%20cloud%20deployments.%20I'm%20always%20exploring%20ways%20to%20combine%20software%20engineering%20with%20AI%20to%20build%20products%20that%20are%20fast%2C%20practical%2C%20and%20impactful." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=An%20aspiring%20Software%20Development%20Engineer%20passionate%20about%20building%20AI-powered%2C%20full-stack%20applications%20that%20solve%20real-world%20problems.;I'm%20always%20exploring%20ways%20to%20combine%20software%20engineering%20with%20AI%20to%20build%20products%20that%20are%20fast%2C%20practical%2C%20and%20impactful." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
