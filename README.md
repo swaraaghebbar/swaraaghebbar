@@ -23,7 +23,7 @@ I'm a Computer Science student driven by the challenge of turning ideas into pol
 - Engineered a Gemini-powered **Retrieval-Augmented Generation (RAG)** pipeline to process medical knowledge sources and provide context-aware health insights.
 - Implemented vector-based information retrieval using Pinecone and embeddings to improve medical data accessibility and patient safety workflows.
 
-**Built with:** React • Firebase • Google Cloud • Gemini API • RAG • Pinecone • Vector Embeddings • Google APIs
+**Tools & Technologies:** React • Firebase • Google Cloud • Gemini API • RAG • Pinecone • Vector Embeddings • Google APIs
 
 
 ---
@@ -37,7 +37,7 @@ I'm a Computer Science student driven by the challenge of turning ideas into pol
 - Integrated Neo4j graph databases and geospatial datasets for intelligent asset mapping and relationship analysis.
 - Added explainable AI capabilities using SHAP and Grad-CAM to improve model transparency and interpretability.
 
-**Built with:** Python • PyTorch • YOLOv8-seg • DeepXDE • PINNs • Neo4j • Google Earth Engine • Computer Vision • XAI
+**Tools & Technologies:** Python • PyTorch • YOLOv8-seg • DeepXDE • PINNs • Neo4j • Google Earth Engine • Computer Vision • XAI
 
 
 ---
@@ -51,7 +51,7 @@ I'm a Computer Science student driven by the challenge of turning ideas into pol
 - Integrated Google OAuth for secure authentication and ONLYOFFICE API for real-time browser-based document collaboration.
 - Explored distributed system design principles including fault tolerance, data consistency, and efficient storage management.
 
-**Built with:** Node.js • Python • Raspberry Pi • Google OAuth • ONLYOFFICE API • Distributed Systems • System Design
+**Tools & Technologies:** Node.js • Python • Raspberry Pi • Google OAuth • ONLYOFFICE API • Distributed Systems • System Design
 
 ---
 
