@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science student passionate about software development and building AI-powered, ML-driven applications. I enjoy creating end-to-end solutions, from intuitive full-stack web applications to intelligent systems powered by LLMs, RAG, computer vision, and cloud technologies. I'm always exploring new technologies and building projects that solve real-world problems.
+I'm a Computer Science student driven by the challenge of turning ideas into polished, user-focused products. I enjoy designing scalable systems, tackling complex problems, and continuously learning through hands-on projects. Whether working independently or with a team, I value writing clean, maintainable code and building technology that delivers meaningful impact.
 
 🔭 &nbsp;I'm currently working on **AmorFlux- AI-Driven Predictive Maintenance System**  
 😄 &nbsp;Pronouns: **he/him**
